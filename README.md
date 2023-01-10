@@ -1,5 +1,5 @@
 # SampleJenkinsIntegration-v10
-In Postman v10, our generated sample code does not work to generate a working Jenkins integration in the Postman Jenkins Instance. The file "WorkingPipelineConfig"  contains the correct pipeline configuration that should be used. Thanks to Carson Hunter for pointing us in the right direction. 
+In Postman v10, our generated sample code does not work to generate a working Jenkins integration in the Postman Jenkins Instance. The file "WorkingPipelineConfig"  contains a correct pipeline template configuration that can be used. Thanks to Carson Hunter for pointing us in the right direction. 
 
 
 
